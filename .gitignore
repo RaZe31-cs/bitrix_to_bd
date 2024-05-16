@@ -1,0 +1,6 @@
+/.venv
+data/config.py
+/json_example
+test.py
+test2.py
+
